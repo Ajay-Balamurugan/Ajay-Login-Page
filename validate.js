@@ -1,3 +1,5 @@
+// CHANGE FOR CODE REVIEW BRANCH
+
 function validate()  
 {  
     var email = document.getElementById("email").value;
